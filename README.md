@@ -1,11 +1,13 @@
 Pedro Rodrigo - Portfolio Website
 
-https://github.com/Pedro-R-A-da-Silva/pedro-rodrigo/blob/0f05e20679138ca31f4b22c61db02c9e6f0f8cc4/overview.gif
+# Pedro Rodrigo - Portfolio Website
 
-📌 Sobre o Projeto
-Portfólio pessoal desenvolvido para mostrar meus projetos, habilidades e formas de contato. O site foi inspirado no design de judygab:
-https://user-images.githubusercontent.com/50160672/174933373-1ba6cadf-1c9a-48c3-aa58-984d0bd62d82.png
-e adaptado com minha identidade visual.
+![Demonstração do Portfólio](https://github.com/Pedro-R-A-da-Silva/pedro-rodrigo/blob/0f05e20679138ca31f4b22c61db02c9e6f0f8cc4/overview.gif?raw=true)
+
+📌 **Sobre o Projeto**  
+Portfólio pessoal desenvolvido para mostrar meus projetos, habilidades e formas de contato.  
+O site foi inspirado no design de [judygab](https://user-images.githubusercontent.com/50160672/174933373-1ba6cadf-1c9a-48c3-aa58-984d0bd62d82.png) e adaptado com minha identidade visual.
+
 
 🎨 Paleta de Cores
 #5D98FE - Azul claro
