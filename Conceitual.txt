@@ -1,0 +1,10 @@
+                pedrorodrigo - site portifolio
+
+baseado em:
+    https://github.com/judygab/
+
+paleta de cores:
+#5D98FE - azul claro
+#AA367C - lavanda
+#231C59 - indigo
+#FFFFFF - branco
