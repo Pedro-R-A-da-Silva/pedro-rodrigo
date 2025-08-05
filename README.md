@@ -1,36 +1,82 @@
-# Personal Portfolio Website in React
+Pedro Rodrigo - Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://github.com/Pedro-R-A-da-Silva/pedro-rodrigo/blob/0f05e20679138ca31f4b22c61db02c9e6f0f8cc4/overview.gif
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://user-images.githubusercontent.com/50160672/174933373-1ba6cadf-1c9a-48c3-aa58-984d0bd62d82.png">
+📌 Sobre o Projeto
+Portfólio pessoal desenvolvido para mostrar meus projetos, habilidades e formas de contato. O site foi inspirado no design de judygab:
+https://user-images.githubusercontent.com/50160672/174933373-1ba6cadf-1c9a-48c3-aa58-984d0bd62d82.png
+e adaptado com minha identidade visual.
 
-Built using:
+🎨 Paleta de Cores
+#5D98FE - Azul claro
 
-- Front-end library: React
-- CSS framework: React-bootstrap
-- CSS animations library: Animate.css
+#AA367C - Lavanda
 
-In the /personal-portfolio, you can run:
+#231C59 - Índigo
 
-### `npm start`
+#FFFFFF - Branco
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+🛠 Tecnologias Utilizadas
+Frontend
+React - Biblioteca JavaScript para construção de interfaces
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+React-Bootstrap - Framework CSS para componentes responsivos
 
-### `npm test`
+Animate.css - Biblioteca para animações CSS
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Framer Motion - Biblioteca para animações avançadas
 
-### `npm run build`
+React Icons - Ícones populares para React
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Outras Dependências
+React Router - Navegação entre páginas
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Mailchimp - Integração com newsletter
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Nodemailer - Envio de emails pelo formulário de contato
+
+Carrosséis - React Multi Carousel e React Responsive Carousel
+
+🚀 Como Executar o Projeto
+Clone o repositório:
+
+bash
+git clone https://github.com/Pedro-R-A-da-Silva/personal-portfolio.git
+Instale as dependências:
+
+bash
+npm install
+Inicie o servidor de desenvolvimento:
+
+bash
+npm start
+Acesse no navegador:
+
+text
+http://localhost:3000
+📦 Scripts Disponíveis
+npm start - Inicia o servidor de desenvolvimento
+
+npm test - Executa os testes
+
+npm run build - Cria uma versão otimizada para produção
+
+npm eject - Remove a camada de abstração do Create React App (avançado)
+
+🌐 Seções do Site
+Início - Apresentação com animação de texto
+
+Habilidades - Carrossel interativo com minhas competências
+
+Projetos - Galeria organizada por status dos projetos
+
+Contato - Formulário funcional e links diretos para WhatsApp
+
+🤝 Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
+
+📄 Licença
+Este projeto está licenciado sob a MIT License.
+
+Desenvolvido com ❤️ por Pedro Rodrigo
+Inspirado no design de judygab
